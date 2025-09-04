@@ -74,7 +74,7 @@ hash)
 * Is there a better way than brute force to attempt to get higher valued coins?
 * Why or why not?
 
-    There are better ways than just brute forcing to attempt to get higher valued coins such as searching on multiple CPU cores
+    There are better ways than just brute forcing to attempt to get higher valued coins such as searching on multiple CPU cores where each core tests a certain range of nonces.
 
 ```bash
 please put any cool bash one-liners or other piped commands you
