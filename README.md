@@ -1,6 +1,7 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SPs4PNWX)
 # Lab 1 : CEG 3400 Intro to Cyber Security
 
-## Name:
+## Name: Aaron Anderson
 
 ### Task 1: Hashing
 
@@ -19,8 +20,16 @@ Answer the following in this file:
   your final exam, how would you store this dataset?  Why?
 
 ```bash
-please put any cool bash one-liners or other piped commands you
-learned/struggled with for task 1 here
+I was having problems with getting into my aws instance so I used Java to create the hashes.
+Sorry if it fucks with your auto grader, if it gives you any grief please tell me and I can redo it.
+
+42
+42
+1,764
+74,088
+I would store it by rehashing it a few times to insure the hash is truely difficult to figure out.
+I would also add a hash for each answer and not just for every user,
+so that matching the answer to a person would be extremely fustrating.
 ```
 
 ---
@@ -48,7 +57,17 @@ hash)
 
 
 ```bash
-please put any cool bash one-liners or other piped commands you
-learned/struggled with for task 2 here
+
+14 words
+10000
+I filtered out only the hashses with 3 0s-
+so I dont know.
+This one is really cool, I love using coding methods like this-
+to do stupid stuff.
+Instead of running 1 word at a time, run the entire dictionary-
+and/ or run a much bigger dictionary.
+I can run the code in the backround which increase my chances-
+of getting hashes with more that 3 0s.
+
 ```
 

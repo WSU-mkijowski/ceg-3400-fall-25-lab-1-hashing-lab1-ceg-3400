@@ -1,0 +1,7 @@
+for i in $(seq 10000); do saltedword="$i"table; hashval=$( echo -n $salted
+word | sha256sum); [[ $hashval == 000* ]] && echo "$hashval, $sa
+ltedword"; done
+
+for i in $(seq 10000); do saltedword="$i"these; hashval=$( echo -n $salted
+word | sha256sum); [[ $hashval == 000* ]] && echo "$hashval, $sa
+ltedword"; done
