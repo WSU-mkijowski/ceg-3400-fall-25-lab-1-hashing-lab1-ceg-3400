@@ -60,15 +60,21 @@ hash)
 
 * How many words were in your dictionary?
 
-    
+    I had 38 words   
 * How many nonces did your code iterate over?
+
+    I honestly have no idea and forget the calculation for it
 * What was the maximum number of hashes your code *could* compute given the above?
+
+    
 * What did you think about Task 2?
 
     I was not a fan of part 2 of this lab because I was so confused on where to start, and the more I looked up the more confused I got. Not really use to this and felt like getting tossed in the deep end. 
+
 * Is there a better way than brute force to attempt to get higher valued coins?
 * Why or why not?
 
+    There are better ways than just brute forcing to attempt to get higher valued coins such as searching on multiple CPU cores
 
 ```bash
 please put any cool bash one-liners or other piped commands you
