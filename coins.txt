@@ -2,6 +2,10 @@
 ## with your coin / coins as below (one coin per line, 
 ## do NOT begin lines with #).
 #
-# 54Australian
-# 101Accenture
+2155we
+2375your
+2925you
+1825some
+1880014new
+
 
