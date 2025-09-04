@@ -10,16 +10,24 @@
 Answer the following in this file:
 
 * How many unique users are in the data?
+
     43
 * How many salts did you create?
+
     43
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
+
+    1,849 different combinations
 * Instead of salts, if you were to use a nonce (unique number for each hashed
   field) how many possible combinations would I need to try?
+
+    Over 18 trillion combinations
 * Given the above, if this quiz data were *actual* class data, say for example
   your final exam, how would you store this dataset?  Why?
+
+    I would store only the hashed verisons of sensitive data such as student Ids. I would ensure to use unique and strong salts and nonces per student to prevent attackers easily getting information. You can also hash multiple time to ensure security. 
 
 ```bash
 please put any cool bash one-liners or other piped commands you
