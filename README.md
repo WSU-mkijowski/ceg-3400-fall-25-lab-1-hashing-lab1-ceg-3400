@@ -20,6 +20,9 @@ Answer the following in this file:
   your final exam, how would you store this dataset?  Why?
 
 ```bash
+I was having problems with getting into my aws instance so I used Java to create the hashes.
+Sorry if it fucks with your auto grader, if it gives you any grief please tell me and I can redo it.
+
 42
 42
 1,764
