@@ -54,7 +54,17 @@ hash)
 
 
 ```bash
-please put any cool bash one-liners or other piped commands you
-learned/struggled with for task 2 here
+
+14 words
+10000
+I filtered out only the hashses with 3 0s-
+so I don't know.
+This one is really cool, I love using coding methods like this-
+to do stupid stuff.
+Instead of running 1 word at a time, run the entire dictionary-
+and/ or run a much bigger dictionary.
+I can run the code in the backround which increase my chances-
+of getting hashes with more that 3 0s.
+
 ```
 

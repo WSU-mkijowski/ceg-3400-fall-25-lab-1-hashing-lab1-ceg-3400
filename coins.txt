@@ -2,6 +2,9 @@
 ## with your coin / coins as below (one coin per line, 
 ## do NOT begin lines with #).
 #
-# 54Australian
-# 101Accenture
+
+6296table
+399these
+8542these
+
 
