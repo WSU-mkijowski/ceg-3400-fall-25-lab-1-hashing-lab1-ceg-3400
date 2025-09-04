@@ -61,7 +61,7 @@ hash)
 14 words
 10000
 I filtered out only the hashses with 3 0s-
-so I don't know.
+so I dont know.
 This one is really cool, I love using coding methods like this-
 to do stupid stuff.
 Instead of running 1 word at a time, run the entire dictionary-
