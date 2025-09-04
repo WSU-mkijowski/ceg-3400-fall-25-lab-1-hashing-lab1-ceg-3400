@@ -24,7 +24,9 @@ Answer the following in this file:
 42
 1,764
 74,088
-I would store it by rehashing it a few times to insure the hash is truely difficult to figure out. I would also add a hash for each answer and not just for every user so that matching the answer to a person would be extremely fustrating.
+I would store it by rehashing it a few times to insure the hash is truely difficult to figure out.
+I would also add a hash for each answer and not just for every user,
+so that matching the answer to a person would be extremely fustrating.
 ```
 
 ---
